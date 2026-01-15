@@ -1,5 +1,7 @@
 # 🧘‍♀️ Aura Pilates Studio
 
+> **🌐 Canlı Demo:** [Süreci Takip Etmek İçin Tıkla](https://ssilakoc.github.io/PilatesWebSite/)
+
 Aura Pilates, modern, ferah ve kullanıcı dostu tasarımıyla öne çıkan bir stüdyo web sitesi projesidir. Bu proje, kullanıcıların stüdyo hakkında bilgi almasını, dersleri incelemesini ve kolayca iletişime geçmesini sağlamak amacıyla geliştirilmiştir.
 
 ## ✨ Özellikler
